@@ -1,4 +1,4 @@
-Name:jinzhangmysql
+Name:jinzhang
 Cartridge-Short-Name: MYSQL
 Architecture: noarch
 Display-Name: MySQL Database 5.1
@@ -6,7 +6,7 @@ Description: "MySQL is a multi-user, multi-threaded SQL database server."
 Version: '5.1'
 Versions: [5.1]
 Cartridge-Version: 0.2.0
-Cartridge-Vendor: test1 
+Cartridge-Vendor:mytest1 
 License: GPL
 Vendor: Oracle
 Categories:
